@@ -1,1 +1,5 @@
-/* styles go here */
+label,
+input,
+fieldset {
+  margin: 5px 0;
+}
