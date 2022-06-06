@@ -1,8 +1,7 @@
-label,
-input {
-  margin: 10px 0;
+.section {
+  margin-bottom: 20px;
 }
 
-fieldset {
-  margin: 20px 0;
+.field:not(:last-child) {
+  margin-bottom: 10px;
 }
